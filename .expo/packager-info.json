@@ -1,0 +1,7 @@
+{
+  "packagerPort": 8081,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://es-486.daniega.assignment.exp.direct",
+  "packagerNgrokUrl": "https://packager.es-486.daniega.assignment.exp.direct",
+  "ngrokPid": 6160
+}
